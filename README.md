@@ -1,7 +1,7 @@
 # Omnifood-site
 Healthy food delivery service - one static page.
 ## URL
-https://fadytito.github.io/Omnifood-site
+https://ranariad.github.io/OmniiFood/
 ## Technologies
 * HTML
 * CSS
